@@ -113,9 +113,9 @@ export default function ContactPage() {
             </div>
             <h3 className="font-bold text-lg text-[#0D1117] mb-1">Call Us</h3>
             <p className="text-xs text-gray-500 mb-3">Mon - Fri from 9am to 6pm IST</p>
-            <a href="tel:+911234567890" className="text-sm font-bold text-[#0D1117] hover:text-[#1E40AF]">
-              +91 (0) 123 456 7890
-            </a>
+            <a href="tel:+919701261847" className="text-sm font-bold text-[#0D1117] hover:text-[#1E40AF]">
+  +91 97012 61847
+     </a>
           </div>
 
           <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm hover:shadow-md transition duration-300 flex flex-col items-center text-center">
