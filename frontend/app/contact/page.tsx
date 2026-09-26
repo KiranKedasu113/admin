@@ -122,11 +122,24 @@ export default function ContactPage() {
             <div className="w-12 h-12 rounded-xl bg-cyan-50 border border-cyan-100 flex items-center justify-center mb-4 text-cyan-600">
               <MapPin className="w-6 h-6" />
             </div>
-            <h3 className="font-bold text-lg text-[#0D1117] mb-1">Headquarters</h3>
-            <p className="text-xs text-gray-500 mb-3">D&V SUMMITS PVT LTD</p>
-            <span className="text-sm font-semibold text-gray-700">
-              World Trade Tower, Tech Hub District, India
-            </span>
+          <h3 className="font-bold text-lg text-[#0D1117] mb-1">Headquarters</h3>
+
+<p className="text-xs text-gray-500 mb-3">
+  D&V SUMMITS PVT LTD
+</p>
+
+<a
+  href="https://maps.app.goo.gl/wHKajH91aGQqZSSR7?g_st=ac"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-sm font-semibold text-gray-700 hover:text-[#1E40AF] hover:underline transition"
+>
+  Unit 4, 4th Floor,
+  <br />
+  Manjeera Trinity, KPHB,
+  <br />
+  Hyderabad - 500072
+</a>
           </div>
         </div>
 
