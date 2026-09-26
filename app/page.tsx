@@ -1319,7 +1319,7 @@ export default function HomePage() {
                     <MapPin className="https://maps.app.goo.gl/wHKajH91aGQqZSSR7?g_st=ac" />
                   </div>
                   <div>
-                    <h4 className="font-bold text-sm text-[#0D1117]">Headquarters</h4>
+                    <h4 className="font-bold text-sm text-[#0D1117]">Location</h4>
                     <p className="text-xs text-gray-500">D&V SUMMITS PVT LTD, Address 
 Unit 4, 4th floor, Manjeera trinity kphb, hyderabad, 500072</p>
                   </div>
