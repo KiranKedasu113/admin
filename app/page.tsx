@@ -240,7 +240,7 @@ const initialStaticSlides = [
       { value: "240+", label: "Smart Hubs", icon: Building, iconColor: "text-accent-blue" },
       { value: "55+", label: "Future Tracks", icon: Calendar, iconColor: "text-accent-blue" },
     ]
-  }
+  } 
 ];
 
 export default function HomePage() {
@@ -1310,17 +1310,18 @@ export default function HomePage() {
                   </div>
                   <div>
                     <h4 className="font-bold text-sm text-[#0D1117]">Call Support</h4>
-                    <p className="text-xs text-gray-500">+91 (0) 123 456 7890 (Mon - Fri: 9am - 6pm IST)</p>
+                    <p className="text-xs text-gray-500">+91 +91 9666896607 (Mon - Fri: 9am - 6pm IST)</p>
                   </div>
                 </div>
 
                 <div className="flex items-start gap-3 pt-2 border-t border-slate-200">
                   <div className="w-10 h-10 rounded-xl bg-cyan-100/70 text-cyan-700 flex items-center justify-center flex-shrink-0">
-                    <MapPin className="w-5 h-5" />
+                    <MapPin className="https://maps.app.goo.gl/wHKajH91aGQqZSSR7?g_st=ac" />
                   </div>
                   <div>
                     <h4 className="font-bold text-sm text-[#0D1117]">Headquarters</h4>
-                    <p className="text-xs text-gray-500">D&V SUMMITS PVT LTD, World Trade Tower, Tech Hub District</p>
+                    <p className="text-xs text-gray-500">D&V SUMMITS PVT LTD, Address 
+Unit 4, 4th floor, Manjeera trinity kphb, hyderabad, 500072</p>
                   </div>
                 </div>
               </div>
